@@ -88,8 +88,9 @@ v
 ***
 
 > [!TIP]
-> $ 
-> \text{Menkul Kıymet} \subseteq \text{Sermaye Piyasası Aracı} \subseteq \text{Menkul Sermaye}$
+> $$ 
+> \text{Menkul Kıymet} \subseteq \text{Sermaye Piyasası Aracı} \subseteq \text{Menkul Sermaye}
+> $$
 
 ## Araçlar
 
@@ -134,8 +135,8 @@ v
 
     Beyan edilmesi gerektigi durumda GİB uzerinden `3.C` yerinde `622` seciniz.
 
-    > [!IMPORTANT]
-    > Beyan limittleri yillik olarak guncellenmektedir. Lutfen guncel limite bakiniz.
+> [!IMPORTANT]
+> Beyan limitleri yillik olarak guncellenmektedir. Lutfen guncel limite bakiniz.
     
 ***
 ***
@@ -344,10 +345,9 @@ Paramız sayısal olarak artmış gözükse de aslında enflasyona karşı değe
 |      Dolar    |      1.300 $      |       -       |
 
 10 Şubat 2020 tarihinde 5 adet TSLA hissesi almış olalım. Yani 
-$ 5 \ \times $
-$`\text{100 \$}`$ 
-$ \ = $
-$`\text{500 \$}`$  harcadık.
+$`5 \times \text{100 \$} = \text{500 \$}`$ 
+harcadık.
+
 
 
 |  Envanter     | Adet / Miktar | Eklenme Tarihi|
@@ -356,10 +356,8 @@ $`\text{500 \$}`$  harcadık.
 |       TSLA    |      5        |  10 Şubat 2020|
 
 Daha sonra 20 Aralık 2023 tarihinde 4 adet TSLA hissesi alalım. Yani
-$ 4 \ \times $
-$`\text{200 \$}`$ 
-$ \ = $
-$`\text{800 \$}`$  harcadık.
+$`4 \times \text{200 \$} = \text{800 \$}`$ 
+harcadık.
 
 |  Envanter     | Adet / Miktar | Eklenme Tarihi|
 | -----------   | -----------   |  -----------  |
@@ -372,7 +370,7 @@ $$
 \begin{aligned}
 M_{TL_1} &=  M_{X} \times  R\\
 &= (5 \times 100 \$) \times 40,00 \\
-&= 20.000\ £
+&= 20.000\ ₺
 \end{aligned}
 $$
 
@@ -380,7 +378,7 @@ $$
 \begin{aligned}
 M_{TL_2} &=  M_{X} \times  R\\
 &= (2 \times 200 \$) \times 45,00 \\
-&= 18.000\ £
+&= 18.000\ ₺
 \end{aligned}
 $$
 
@@ -389,7 +387,7 @@ $$
 \begin{aligned}
 M_{TL_{Sell}} &=  M_{X} \times  R\\
 &= (7 \times 205 \$) \times 50,00 \\
-&= 71.750\ £
+&= 71.750\ ₺
 \end{aligned}
 $$
 
@@ -408,8 +406,8 @@ $$
 $$
 \begin{aligned}
 E_{TL_1} &=  M_{TL_1} \times  (k + 1) \\
-&= 20.000\ £ \times (4 + 1) \\
-&= 100.000\ £
+&= 20.000\ ₺ \times (4 + 1) \\
+&= 100.000\ ₺
 \end{aligned}
 $$
 
@@ -418,8 +416,8 @@ Ancak 20 Şubat 2020 - 25 Aralık 2023 tarihleri için Tİ-ÜFE verisi ayni oldu
 $$
 \begin{aligned}
 E_{TL_2} &=  M_{TL_2} \times  (0 + 1) \\
-&= 18.000\ £ \times 1 \\
-&= 18.000\ £
+&= 18.000\ ₺ \times 1 \\
+&= 18.000\ ₺
 \end{aligned}
 $$
 
@@ -429,8 +427,8 @@ Her veriyi endekslediğimize göre karımızı hesaplayalım
 $$
 \begin{aligned}
 X &=  M_{TL_{Sell}} - \sum{E_{TL_i}} \\
-&= 71.750\ £ - (100.000\ £ + 18.000\ £) \\
-&= - 46.250\ £
+&= 71.750\ ₺ - (100.000\ ₺ + 18.000\ ₺) \\
+&= - 46.250\ ₺
 \end{aligned}
 $$
 
