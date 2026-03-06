@@ -198,10 +198,13 @@ Yani eger elimizdeki sermaye yabanci serymaye ise (islemi TL disinda bir doviz i
 $$
 M_{TL} =  M_{X} \times  R
 $$
+
 $$
-M_{TL}: \text{TL Maliyet} \\[1ex]
-M_{X}: \text{X Kuru Maliyet}\\[1ex]
-R_{X-TL}: \text{Döviz Alış kuru}\\
+\begin{aligned}
+M_{TL} &: \text{TL Maliyet} \\
+M_{X} &: \text{X Kuru Maliyet} \\
+R_{X-TL} &: \text{Döviz Alış kuru}
+\end{aligned}
 $$
 
 ##### Örnek:
