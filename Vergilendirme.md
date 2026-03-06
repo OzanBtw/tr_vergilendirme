@@ -195,14 +195,14 @@ Asagidaki maddeleri oncelikle bilmeniz gerekmektedir:
 
 Yani eger elimizdeki sermaye yabanci serymaye ise (islemi TL disinda bir doviz ile gerceklesiyor ise) kur farki uygulanmak zorundadir. Eger islemin gerceklestigi tarih ve saatteki kur-tl verisi sermayenin islem gordugu platformda bulunuyorsa bu veri kullanilir. Eger yoksa `TCMB` tarafindan aciklanan, islemin gerceklesitgi tarihin bir onceki is gunu kur-tl verisi kullanilir. Yukarida Maliye Bakanlığınca denilmesinin sebebi Maliye Bakanlıği degeri belirler, veriyi `TCMB` aciklar. Kur alış baz alınır.
 
-$$
+```math
 M_{TL} =  M_{X} \times  R
-$$
-$$
+```
+```math
 M_{TL}: \text{TL Maliyet}\\
 M_{X}: \text{X Kuru Maliyet}\\
 R_{X-TL}: \text{Döviz Alış kuru}\\
-$$
+```
 
 ##### Örnek:
 
