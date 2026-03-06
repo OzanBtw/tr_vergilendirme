@@ -251,14 +251,19 @@ $$
 M_E = M\times (k + 1)
 $$
 $$
-E_{sell}: \text{Endeks Satış Değeri}\\
-E_{buy}: \text{Endeks Alış Değeri}\\
-k: \text{Endeks Katsayısı}\\
-M_E: \text{Endeksli Maliyet}\\
-M: \text{Maliyet}\\
+\begin{aligned}
+E_{sell} &: \text{Endeks Satış Değeri} \\
+E_{buy} &: \text{Endeks Alış Değeri} \\
+k &: \text{Endeks Katsayısı} \\
+M_E &: \text{Endeksli Maliyet} \\
+M &: \text{Maliyet}
+\end{aligned}
 $$
 $$
-\text{Eğer } k \geq 0.10 \text{ ise endeksleme yapılır. } \\ \text{Eğer } k < 0.10 \text{ ise endeksleme yapılmaz.}
+\begin{aligned}
+&\text{Eğer } k \geq 0.10 \text{ ise endeksleme yapılır. } \\ 
+&\text{Eğer } k < 0.10 \text{ ise endeksleme yapılmaz.}
+\end{aligned}
 $$
 
 
