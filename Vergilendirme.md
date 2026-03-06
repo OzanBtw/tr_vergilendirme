@@ -217,18 +217,18 @@ $$
     Not: Hisse değerleri işlem anındaki değeri ile kullanılmalıdır. Örneği basitleştirmek amacıyla burada günlük tarih kullanılmıştır.
 
 Diyelimki 10 Şubat'ta 5 adet Nvdia hissesi aldık. Yani elimizde 
-$`\text{100\$}`$ 
+$`\text{100}\$`$ 
 $\times 5 = $ 
-$`\text{500\$}`$ 
+$`\text{500}\$`$ 
 var. Bu hisselerin hepsini de 20 Şubat'ta satmış olalım 
-$`\text{200\$}`$ 
+$`\text{200}\$`$ 
 $\times 5 = $ 
-$`\text{1.500\$}`$. 
+$`\text{1.500}\$`$. 
 Varsayalım ki işlem yaptığımız platform bize işlem anındaki Dolar-Tl değerini sağlamıyor. Bu yüzden bir önceki iş günlerinin değerlerini kullanıyor olacağız (9 Şubat Pazartesi günü olsun). 9 ve 19 Şubat iş günleri oldukları için bu verileri kullanacağız.
 
 Hisse Alış TL:
 
-$$\text{500\$} \times 40,00 = \text{20.000₺}$$
+$$\text{500}\$ \times 40,00 = \text{20.000₺}$$
 
 Hisse Satış Tl:
 
