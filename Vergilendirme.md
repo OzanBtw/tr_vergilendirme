@@ -172,7 +172,7 @@ v
 
 Iki tur vergilendirme yolu vardir. **Stopaj** ve **Beyanname**. Stopaj, islem yapildigi anda gerceklesmektedir. Dolaysiyla ayri olarak beyan verilmesi gerkmez. Ancak Beyanname olmasi durumunda vergi vermesi gereken kisi olsuan kazancini beyan etmesi gerekir. 
 
-Gelir vergisine dahil olan gelirlerin vergilendirilme oraninina `GVK M. 103`'ten ulasabilirsiniz.
+Gelir vergisine dahil olan gelirlerin vergilendirilme oraninina `GVK M. 103`'ten ulasabilirsiniz. Ayrıca Mart ayı önceki yıla ait gelirlerin vergi beyan tarihidir. Ödeme taksitli olacak şekilde Mart ve Temmuz aylarında yapılabilmektedir.
 
 
 ## Kâr Hesaplama
