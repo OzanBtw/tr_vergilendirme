@@ -201,9 +201,9 @@ $$
 
 $$
 \begin{aligned}
-M_{TL} &: \text{TL Maliyet} \\
-M_{X} &: \text{X Kuru Maliyet} \\
-R_{X-TL} &: \text{Döviz Alış kuru}
+M_{TL} & : \text{TL Maliyet} \\
+M_{X} & : \text{X Kuru Maliyet} \\
+R_{X-TL} & : \text{Döviz Alış kuru}
 \end{aligned}
 $$
 
@@ -259,11 +259,11 @@ M_E = M\times (k + 1)
 $$
 $$
 \begin{aligned}
-E_{sell} &: \text{Endeks Satış Değeri} \\
-E_{buy} &: \text{Endeks Alış Değeri} \\
-k &: \text{Endeks Katsayısı} \\
-M_E &: \text{Endeksli Maliyet} \\
-M &: \text{Maliyet}
+E_{sell} & : \text{Endeks Satış Değeri} \\
+E_{buy} & : \text{Endeks Alış Değeri} \\
+k & : \text{Endeks Katsayısı} \\
+M_E & : \text{Endeksli Maliyet} \\
+M & : \text{Maliyet}
 \end{aligned}
 $$
 $$
