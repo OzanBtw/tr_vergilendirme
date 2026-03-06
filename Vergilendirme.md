@@ -80,11 +80,16 @@ piyasası araçlarını
 
     > ... Hazine ve 4749 sayılı Kanuna göre kurulan varlık kiralama şirketleri tarafından yurt dışında ihraç edilen menkul kıymetlerin alım satımı, itfası sırasında elde edilen getirileri ile bunların dönemsel getirilerinin tahsilinde, tam mükellef kurumlara ait olup, Borsa İstanbul’da işlem gören ve bir yıldan fazla süreyle elde tutulan hisse senetleri ile sürekli olarak portföyünün en az % 51'i Borsa İstanbul’da işlem gören hisse senetlerinden oluşan yatırım fonlarının (Ek hüküm:4/12/2025-7566/3 md.) (Katılma payları sadece nitelikli yatırımcılara satılabilen, Türkiye Elektronik Fon Alım Satım Platformu’nda işlem görmeyen ve fon portföyüne alınacak varlık ve işlemlere ilişkin herhangi bir oransal sınırlamaya tabi olmayan yatırım fonları hariç) bir yıldan fazla süreyle elde tutulan katılma paylarının elden çıkarılmasında ve hisse senetleri kâr paylarının hisse sahipleri adına tahsilinde bu fıkra hükümleri uygulanmaz. Tam mükellef kurumlara ait olup, Borsa İstanbul’da işlem gören ve bir yıldan fazla süreyle elde tutulan hisse senetlerinin elden çıkarılmasından elde edilen gelirler için, Gelir Vergisi Kanununun Mükerrer 80 inci madde hükümleri uygulanmaz. ...
 
+***
+
 6. **KAP:** 
     Kamuyu Aydınlatma Platformu `KAP`, sermaye piyasasında işlem gören şirketlerin ve yatırım fonlarının, yatırımcıları bilgilendirmekle yükümlü oldukları tüm verileri paylaştıkları resmi ve elektronik bir veri deposudur.
-
+v
 ***
-    Menkul Kıymet ⊆ Sermaye Piyasası Aracı ⊆ Menkul Sermaye
+
+> [!TIP]
+> $ 
+> \text{Menkul Kıymet} \subseteq \text{Sermaye Piyasası Aracı} \subseteq \text{Menkul Sermaye}$
 
 ## Araçlar
 
@@ -116,7 +121,7 @@ piyasası araçlarını
 
     > Vergiye tâbi gelir toplamının [(a) ve (b) bentlerinde belirtilenler hariç] 103 üncü maddede yazılı tarifenin ikinci gelir diliminde yer alan tutarı aşmaması koşuluyla, Türkiye'de tevkifata tâbi tutulmuş olan; birden fazla işverenden elde edilen ücretler, menkul sermaye iratları ve gayrimenkul sermaye iratları. `GVK M. 86, c`
 
-    Dolaysiyla karinizin yarisi bu limiti gecmiyor ise vergi verilmez. 
+    Dolaysiyla karin yarisi GVK 103. maddedeki 2. dilimin üst sınırıni gecmiyor ise vergi verilmez. 
 
     Beyan edilmesi gerektigi durumda GİB uzerinden `3.C` yerinde `606` seciniz.
 
@@ -126,10 +131,11 @@ piyasası araçlarını
 
     > Bir takvim yılı içinde elde edilen ve toplamı 600 milyon lirayı (22.000 TL) aşmayan, tevkifata ve istisna uygulamasına konu olmayan menkul ve gayrimenkul sermaye iratları. `GVK M. 86, d`
     
-    Not: Bu limit yillik olarak guncellenmektedir. Lutfen guncel limite bakiniz.
 
     Beyan edilmesi gerektigi durumda GİB uzerinden `3.C` yerinde `622` seciniz.
 
+    > [!IMPORTANT]
+    > Beyan limittleri yillik olarak guncellenmektedir. Lutfen guncel limite bakiniz.
     
 ***
 ***
@@ -171,16 +177,16 @@ Gelir vergisine dahil olan gelirlerin vergilendirilme oraninina `GVK M. 103`'ten
 
 ## Kâr Hesaplama
 
-Kar hesaplamizin genelde iki sebebi vardir: 
+Kar hesaplamamızın genelde iki sebebi vardır: 
 
 1. islem periyodu sonunda elde ettigimiz kar ve perfonmansi ogrenmek.
 2. Vergi beyaninda bulunabilmek.
 
 Eger kar bilinimiyorsa bu iki madde gerceklestirilemez. Sermaye piyasasi araclarinin alis-satis islemlerinden elde edilen gelirleri hesaplarken ilk giren ilk cikan `FIFO` yontemi kullanilir. 
 
-> Aynı menkul kıymet ve diğer sermaye piyasası aracından değişik tarihlerde alımlar yapıldıktan sonra bunların bir kısmının elden çıkarılması halinde, **ilk giren ilk çıkar yöntemi** kullanılmak suretiyle, tevkifat matrahının tespitinde dikkate alınacak alış bedeli belirlenir. Bir menkul kıymet ve diğer sermaye piyasası aracının alımından önce elden çıkarılması halinde, elden çıkarılma tarihinden sonra yapılan ilk alım işlemi esas alınarak üzerinden tevkifat yapılacak tutar tespit edilir. Aynı gün içerisindeki işlemlerde ağırlıklı ortalama yöntemi kullanılabilir. Alış ve satış işlemleri dolayısıyla ödenen komisyonlar ile Banka ve Sigorta Muameleleri Vergisi tevkifat matrahının tespitinde dikkate alınır. `GVK Geçici M. 67, d`
+> Aynı menkul kıymet ve diğer sermaye piyasası aracından değişik tarihlerde alımlar yapıldıktan sonra bunların bir kısmının elden çıkarılması halinde, ***ilk giren ilk çıkar yöntemi*** kullanılmak suretiyle, tevkifat matrahının tespitinde dikkate alınacak alış bedeli belirlenir. Bir menkul kıymet ve diğer sermaye piyasası aracının alımından önce elden çıkarılması halinde, elden çıkarılma tarihinden sonra yapılan ilk alım işlemi esas alınarak üzerinden tevkifat yapılacak tutar tespit edilir. Aynı gün içerisindeki işlemlerde ağırlıklı ortalama yöntemi kullanılabilir. Alış ve satış işlemleri dolayısıyla ödenen komisyonlar ile Banka ve Sigorta Muameleleri Vergisi tevkifat matrahının tespitinde dikkate alınır. `GVK Geçici M. 67, d`
 
-### Nasil Yapilir?
+### Nasıl Yapılır?
 
 Asagidaki maddeleri oncelikle bilmeniz gerekmektedir:
 
@@ -214,16 +220,17 @@ $$
 | Dolar-Tl      | 40,00| 41,37 | 45,00  | 43,92 |
 | Nvdia Hissesi | 98 $  | 100 $  | 188.1 $ | 200 $  |
 
-    Not: Hisse değerleri işlem anındaki değeri ile kullanılmalıdır. Örneği basitleştirmek amacıyla burada günlük tarih kullanılmıştır.
+> [!NOTE]
+> Hisse değerleri işlem anındaki değeri ile kullanılmalıdır. Örneği basitleştirmek amacıyla burada günlük tarih kullanılmıştır.
 
 Diyelimki 10 Şubat'ta 5 adet Nvdia hissesi aldık. Yani elimizde 
-$`\text{100\$}`$ 
+$`\text{100 \$}`$ 
 $\times 5 = $ 
-$`\text{500\$}`$ 
+$`\text{500 \$}`$ 
 var. Bu hisselerin hepsini de 20 Şubat'ta satmış olalım 
-$`\text{200\$}`$ 
+$`\text{200 \$}`$ 
 $\times 5 = $ 
-$`\text{1.500\$}`$. 
+$`\text{1.500 \$}`$. 
 Varsayalım ki işlem yaptığımız platform bize işlem anındaki Dolar-Tl değerini sağlamıyor. Bu yüzden bir önceki iş günlerinin değerlerini kullanıyor olacağız (9 Şubat Pazartesi günü olsun). 9 ve 19 Şubat iş günleri oldukları için bu verileri kullanacağız.
 
 Hisse Alış TL:
@@ -281,7 +288,8 @@ $$
 | Tİ-UFE        | 400,00 | 432,29 | 2000,00  | 2037,45 |
 | Tuprs Hissesi  | 19,38 ₺    | 50 ₺   | 183,1 ₺ | 210 ₺  |
 
-    Not: Tİ-ÜFE değerleri aylık olarak açıklanır, o yüzden bu örnekte tarih değerleri yıl ve ay olarak kullanılmıştır.
+> [!NOTE]
+> Tİ-ÜFE değerleri aylık olarak açıklanır, o yüzden bu örnekte tarih değerleri yıl ve ay olarak kullanılmıştır.
 
 Diyelimki 2020 Mart ayında 10 adet Tüpraş hissesi aldık. Yani elimizde $50 ₺ \times 10 = 500 ₺$ var. Bu hisselerin hepsini de 2023 Aralık'ta satmış olalım $210 ₺ \times 10 = 2.100 ₺$. 2020 Şubat ve 2023 Kasım işlem tarihlerinden bir önceki aylar oldukları için bu verileri kullanacağız.
 
@@ -311,3 +319,126 @@ $$
 
 
 Paramız sayısal olarak artmış gözükse de aslında enflasyona karşı değer kaybetmiştir.
+
+***
+
+#### FIFO Genel Örnek
+
+|               | 9 Şubat 2020 | 10 Şubat 2020| 19 Aralık 2023| 20 Aralık 2023| 24 Aralık 2023| 25 Aralık 2023|
+| -----------   | ----------- | ----------- | ----------- | ----------- |----------- |----------- |
+| Dolar-Tl      | 40,00| 41,37 | 45,00  | 43,92 | 50,00 |49,70 |
+| Tsla Hissesi | 98 $  | 100 $  | 188.1 $ | 200 $  | 201.3 $  |205.0 $  |
+
+|               | Ocak 2020 | Şubat 2020 | Kasım 2023 | Aralık 2023|
+| -----------   | ----------- | ----------- | ----------- | ----------- |
+| Tİ-UFE        | 400,00 | 432,29 | 2000,00  | 2037,45 |
+
+> [!NOTE]
+> Buradaki günleri örnekte kolaylık olsun diye iş günü sayın. Normal şartlar altında dolar verisi bir önceki iş günü olarak seçilir.
+
+
+9 Şubat 2020 tarihinde envanterimiz bu şekilde olsun:
+
+|  Envanter     | Adet / Miktar | Eklenme Tarihi|
+| -----------   | -----------   |  -----------  |
+|      Dolar    |      1.300 $      |       -       |
+
+10 Şubat 2020 tarihinde 5 adet TSLA hissesi almış olalım. Yani 
+$ 5 \ \times $
+$`\text{100 \$}`$ 
+$ \ = $
+$`\text{500 \$}`$  harcadık.
+
+
+|  Envanter     | Adet / Miktar | Eklenme Tarihi|
+| -----------   | -----------   |  -----------  |
+|      Dolar    |      800 $      |       -     |
+|       TSLA    |      5        |  10 Şubat 2020|
+
+Daha sonra 20 Aralık 2023 tarihinde 4 adet TSLA hissesi alalım. Yani
+$ 4 \ \times $
+$`\text{200 \$}`$ 
+$ \ = $
+$`\text{800 \$}`$  harcadık.
+
+|  Envanter     | Adet / Miktar | Eklenme Tarihi|
+| -----------   | -----------   |  -----------  |
+|       TSLA    |      5        |  10 Şubat 2020|
+|       TSLA    |      4        |  20 Şubat 2023|
+
+25 Aralık 2023 tarihinde ise 7 adet hissemizi satmaya karar verdik. FIFO uygulayacağımız için ilk aldığımız tarihe bakmamız gerekecek. Öncelikle kur endeksimizi uygulayalım.
+
+$$
+\begin{aligned}
+M_{TL_1} &=  M_{X} \times  R\\
+&= (5 \times 100 \$) \times 40,00 \\
+&= 20.000\ £
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+M_{TL_2} &=  M_{X} \times  R\\
+&= (2 \times 200 \$) \times 45,00 \\
+&= 18.000\ £
+\end{aligned}
+$$
+
+
+$$
+\begin{aligned}
+M_{TL_{Sell}} &=  M_{X} \times  R\\
+&= (7 \times 205 \$) \times 50,00 \\
+&= 71.750\ £
+\end{aligned}
+$$
+
+Şimdi 10 Şubat 2020 - 25 Aralık 2023 tarihleri için Tİ-ÜFE kontrol edelim.
+
+$$
+\begin{aligned}
+k &= \frac{E_{sell}}{E_{buy}} - 1 \\
+&= \frac{2000,00}{400,00} - 1 \\
+&= 4
+\end{aligned}
+$$
+
+ $4 \geq 0.10 $, yani Tİ-ÜFE uygulanabilir.
+
+$$
+\begin{aligned}
+E_{TL_1} &=  M_{TL_1} \times  (k + 1) \\
+&= 20.000\ £ \times (4 + 1) \\
+&= 100.000\ £
+\end{aligned}
+$$
+
+Ancak 20 Şubat 2020 - 25 Aralık 2023 tarihleri için Tİ-ÜFE verisi ayni oldugu icin farki 0 olacak. Yani endekslememiz mümkün değil.
+
+$$
+\begin{aligned}
+E_{TL_2} &=  M_{TL_2} \times  (0 + 1) \\
+&= 18.000\ £ \times 1 \\
+&= 18.000\ £
+\end{aligned}
+$$
+
+Her veriyi endekslediğimize göre karımızı hesaplayalım
+
+
+$$
+\begin{aligned}
+X &=  M_{TL_{Sell}} - \sum{E_{TL_i}} \\
+&= 71.750\ £ - (100.000\ £ + 18.000\ £) \\
+&= - 46.250\ £
+\end{aligned}
+$$
+
+
+
+karımız var. Yani real anlamda zarar yapmış bulunmaktayız.
+
+|  Envanter     | Adet / Miktar | Eklenme Tarihi|
+| -----------   | -----------   |  -----------  |
+|       TSLA    |      2        |  20 Şubat 2023|
+|       Dolar   |     1.435 $   |  25 Şubat 2023|
