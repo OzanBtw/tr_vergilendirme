@@ -199,8 +199,8 @@ $$
 M_{TL} =  M_{X} \times  R
 $$
 $$
-M_{TL}: \text{TL Maliyet}
-M_{X}: \text{X Kuru Maliyet}
+M_{TL}: \text{TL Maliyet} <br>
+M_{X}: \text{X Kuru Maliyet} <br>
 R_{X-TL}: \text{Döviz Alış kuru}
 $$
 
